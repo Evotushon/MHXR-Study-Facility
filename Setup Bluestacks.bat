@@ -1,5 +1,6 @@
 @echo off
-
+:: This is probably the shittiest spaghetti code I've ever written, but it should work I guess.
+:: Probably because it's the first time I wrote batch, who knows
 cd %LOCALAPPDATA%\Android\sdk\platform-tools
 
 :Start
